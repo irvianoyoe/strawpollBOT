@@ -1,9 +1,10 @@
 Strawpoll bots Increase survey
+===============================
 
 Developer and coder by _irv (c) 2018
 
-Don't forget for change this variable
 
+Don't forget for change this variable
 
 self.pooling_id = ""
 self.radio_btn_id = ""
