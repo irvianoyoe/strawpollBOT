@@ -1,6 +1,5 @@
-===================================
-|  Strawpoll bots Increase survey |
-===================================
+Strawpoll bots Increase survey
+
 Developer and coder by _irv (c) 2018
 
 Don't forget for change this variable
