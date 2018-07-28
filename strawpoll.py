@@ -37,9 +37,9 @@ if IS_LINUX:
 class postclick(object):
     def __init__(self):
         # id pooling from URL
-        self.pooling_id = "f28hpcgg"
+        self.pooling_id = "YOUR POLLING ID"
         # check radio button option
-        self.radio_btn_id = "check2"
+        self.radio_btn_id = "YOUR CHECK RADIO BUTTON"
         self.PROXYDB = "proxy.txt"
         self.PROXYUSED = "usedproxy.txt"
         self.site_target = "https://strawpoll.com/"+self.pooling_id
